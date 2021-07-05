@@ -1,0 +1,2 @@
+# go-note
+go-note
