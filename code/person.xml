@@ -1,0 +1,22 @@
+<People>
+    <person id="21">
+        <name>ixfosa</name>
+        <age>22</age>
+        <City>NanChang</City>
+        <PostCode>332200</PostCode>
+        <friends>
+            <friend>long</friend>
+            <friend>zhong</friend>
+        </friends>
+        <!--this is Comment-->hahaha
+    </person>
+    <person id="21">
+        <name>long</name>
+        <City>NanChang</City>
+        <PostCode>332200</PostCode>
+        <friends>
+            <friend>ixfosa</friend>
+        </friends>
+        <!--this is Comment-->lalalaala
+    </person>
+</People>

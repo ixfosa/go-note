@@ -1,0 +1,1 @@
+[{"name":"ixfosa","socre":{"go":99,"java":100},"age":"22","friend":["long","zhong"],"Phone":"13879261463"},{"name":"long","socre":{"chinese":99,"math":100},"friend":["ixfosa"],"Phone":"666666666"},{"name":"zhong","socre":{"math":100,"ps":99},"friend":["ixfosa"],"Phone":"999999999"}]
